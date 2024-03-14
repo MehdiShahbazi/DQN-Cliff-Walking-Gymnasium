@@ -444,7 +444,7 @@ class Model_TrainTest:
         sma = np.convolve(self.reward_history, np.ones(50)/50, mode='valid')
         
         plt.figure()
-        plt.title("Rewards")
+        plt.title("Obtained Rewards")
         plt.plot(self.reward_history, label='Raw Reward', color='#F1BD81', alpha=1)
         plt.plot(sma, label='SMA 50', color='#2B6C6D')
         plt.xlabel("Episode")
@@ -462,7 +462,7 @@ class Model_TrainTest:
         
                 
         plt.figure()
-        plt.title("Loss")
+        plt.title("Network Loss")
         plt.plot(self.agent.loss_history, label='Loss', color='#8549f2', alpha=1)
         plt.xlabel("Episode")
         plt.ylabel("Loss")
