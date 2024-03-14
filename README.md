@@ -53,13 +53,13 @@ You can view the training procedure through the following GIFs, demonstrating th
 
 
 <p align="center">
-  <img src="./Gifs/EP 1.gif" width="40%" height=40% />
-  <img src="./Gifs/EP 100.gif" width="40%" height=40% />
+  <img src="./Gifs/EP 1.gif" width="44%" height=44% />
+  <img src="./Gifs/EP 100.gif" width="44%" height=44% />
 </div>
 
 <p align="center">
-  <img src="./Gifs/EP 150.gif" width="40%" height=40% />
-  <img src="./Gifs/EP 200.gif" width="40%" height=40% />
+  <img src="./Gifs/EP 150.gif" width="44%" height=44% />
+  <img src="./Gifs/EP 200.gif" width="44%" height=44% />
 </div>
 
 
