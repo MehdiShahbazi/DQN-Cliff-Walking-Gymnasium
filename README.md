@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# DQN-Cliff-Walking-Gymnasium
-This repo implements Deep Q-Network (DQN) for solving the Cliff Walking v0 environment of the Gymnasium library using Python 3.8 and PyTorch 2.0.1 with the finest tuning.
-=======
 ## Description
 Welcome to this repository! Here, you'll find a Python implementation of the Deep Q-Network (DQN) algorithm, a significant breakthrough in Deep Reinforcement Learning (DRL). This repository illustrates the effectiveness of the DQN algorithm by applying it to the [Cliff Walking v0](https://gymnasium.farama.org/environments/toy_text/cliff_walking/)  environment provided by the Gymnasium library. In this environment, the agent's objective is to navigate a grid map where stepping on certain tiles (cliffs) results in immediate failure. Thus, the agent has to efficiently traverse the grid from the starting point to the goal point while avoiding the cliffs. The details of the cliff walking environment is ilusstrated in the following figure [[1]](#1). This setup simulates scenarios where risky decisions can lead to catastrophic outcomes, emphasizing the importance of strategic decision-making in reinforcement learning. This implementation not only serves as a valuable resource for enthusiasts and practitioners seeking to understand and apply DQN in their projects and pave the way for further experimentation.
 
@@ -104,4 +100,3 @@ Explore my solutions for various environments within the Gymnasium library, each
 ## References
 
 - <a id="1"></a> [Sutton, R.S. and Barto, A.G., 2018. Reinforcement learning: An introduction. MIT press.](http://www.incompleteideas.net/book/RLbook2020.pdf)
->>>>>>> 2696dae (Initial Commit)
