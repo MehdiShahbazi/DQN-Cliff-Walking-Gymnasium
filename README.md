@@ -84,7 +84,7 @@ The initial surge in network loss is due to the -100 rewards received while step
 I genuinely hope this repository proves valuable to those on the learning path. If you find this repository beneficial in your journey, consider fueling this work by endorsing it.
 
 
-## Beyond Cliff Walking: Exploring Environments
+## Beyond Cliff Walking
 Explore my solutions for various environments within the Gymnasium library, each presenting captivating challenges that showcase the exciting applications of deep reinforcement learning techniques. Some of these solved environments include:
 
 ###### Toy Text Environments:
@@ -93,6 +93,7 @@ Explore my solutions for various environments within the Gymnasium library, each
 
 ###### Classic Control Environments:
 1. [Mountain Car v0](https://github.com/MehdiShahbazi/DQN-Mountain-Car-Gymnasium) &#8594; Solved with DQN algorithm
+2. [Cart Pole v1](https://github.com/MehdiShahbazi/REINFORCE-Cart-Pole-Gymnasium) &#8594; Solved with REINFORCE algorithm
 
 
 
